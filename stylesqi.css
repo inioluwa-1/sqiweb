@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    padding: 20px;
+    display: flex;
+    position: fixed;
+    top: 0px;
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    border: 1px solid rgba(0,0,0,2);
+
+}
+.im{
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+.fg{
+    width: 70px;
+    height: 70px;
+}
+select{
+    border: none;
+    margin-left: 20px;
+}
+.link{
+    display: inline-block;
+    margin-left: 400px;
+    letter-spacing: normal;
+    padding-top: 30px;
+}
+.link>a{
+    text-decoration: none;
+    margin-left: 0px;
+    color: black;
+    
+}
+.study{
+    display: flex;
+    /* background-color: #00208A; */
+    margin-top: 100px;
+}
+.shh{
+    margin-top: 80px;
+    margin-left: 150px;
+    
+}
+.topic{
+    font-size: 64px;
+    padding: 0px 0px 10px;
+    line-height: 70.4px;
+    color: #000E42;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.word{
+    font-size: 16px;
+    line-height: 28.8px;
+    color: #474747;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.dgg{
+    width: 450px;
+    height: 450px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.rel{
+    padding: 20px 40px;
+    border-radius: 10px;
+    background-color: #00208A;
+    color: white;
+    border: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    margin-top: 10px;
+
+}
+.fb{
+    margin-top: 150px;
+    /* background-color: black; */
+    width: 79px;
+    position: fixed;
+}
+.ini{
+    background-color: #314A83;
+    width: 43px;
+   height: 40px;
+   font-size: 20px;
+   text-align: center;
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding-top: 6px;
+   font-weight: 700;
+}
+.kay{
+    background-color: #00ABF0;
+    width: 43px;
+   height: 40px;
+   
+}
+.vic{
+    background-color: #127BB6;
+    width: 43px;
+   height: 40px;
+   font-size: 15px;
+   text-align: center;
+   color: white;
+   position: fixed;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding-top: 6px;
+   font-weight: 700;
+
+}
+.wap{
+    display: flex;
+    /* background-color: #000E42; */
+    position: absolute;
+    top: 500px;
+    margin-left: 30px;
+}
+.fok{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.egg{
+    padding-top: 5px;
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    width: 170px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10%;
+}
